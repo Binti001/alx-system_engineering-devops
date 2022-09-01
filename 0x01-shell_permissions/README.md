@@ -1,0 +1,1 @@
+Scripts running shell permissions
